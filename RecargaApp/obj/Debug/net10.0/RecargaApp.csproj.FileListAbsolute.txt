@@ -1,0 +1,14 @@
+c:\Users\varlei.060219\Desktop\Nova pasta\poo\RecargaApp\RecargaApp\bin\Debug\net10.0\RecargaApp.exe
+c:\Users\varlei.060219\Desktop\Nova pasta\poo\RecargaApp\RecargaApp\bin\Debug\net10.0\RecargaApp.deps.json
+c:\Users\varlei.060219\Desktop\Nova pasta\poo\RecargaApp\RecargaApp\bin\Debug\net10.0\RecargaApp.runtimeconfig.json
+c:\Users\varlei.060219\Desktop\Nova pasta\poo\RecargaApp\RecargaApp\bin\Debug\net10.0\RecargaApp.dll
+c:\Users\varlei.060219\Desktop\Nova pasta\poo\RecargaApp\RecargaApp\bin\Debug\net10.0\RecargaApp.pdb
+c:\Users\varlei.060219\Desktop\Nova pasta\poo\RecargaApp\RecargaApp\obj\Debug\net10.0\RecargaApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\varlei.060219\Desktop\Nova pasta\poo\RecargaApp\RecargaApp\obj\Debug\net10.0\RecargaApp.AssemblyInfoInputs.cache
+c:\Users\varlei.060219\Desktop\Nova pasta\poo\RecargaApp\RecargaApp\obj\Debug\net10.0\RecargaApp.AssemblyInfo.cs
+c:\Users\varlei.060219\Desktop\Nova pasta\poo\RecargaApp\RecargaApp\obj\Debug\net10.0\RecargaApp.csproj.CoreCompileInputs.cache
+c:\Users\varlei.060219\Desktop\Nova pasta\poo\RecargaApp\RecargaApp\obj\Debug\net10.0\RecargaApp.dll
+c:\Users\varlei.060219\Desktop\Nova pasta\poo\RecargaApp\RecargaApp\obj\Debug\net10.0\refint\RecargaApp.dll
+c:\Users\varlei.060219\Desktop\Nova pasta\poo\RecargaApp\RecargaApp\obj\Debug\net10.0\RecargaApp.pdb
+c:\Users\varlei.060219\Desktop\Nova pasta\poo\RecargaApp\RecargaApp\obj\Debug\net10.0\RecargaApp.genruntimeconfig.cache
+c:\Users\varlei.060219\Desktop\Nova pasta\poo\RecargaApp\RecargaApp\obj\Debug\net10.0\ref\RecargaApp.dll
