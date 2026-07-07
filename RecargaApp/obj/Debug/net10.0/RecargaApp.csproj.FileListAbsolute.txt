@@ -12,3 +12,18 @@ c:\Users\varlei.060219\Desktop\Nova pasta\poo\RecargaApp\RecargaApp\obj\Debug\ne
 c:\Users\varlei.060219\Desktop\Nova pasta\poo\RecargaApp\RecargaApp\obj\Debug\net10.0\RecargaApp.pdb
 c:\Users\varlei.060219\Desktop\Nova pasta\poo\RecargaApp\RecargaApp\obj\Debug\net10.0\RecargaApp.genruntimeconfig.cache
 c:\Users\varlei.060219\Desktop\Nova pasta\poo\RecargaApp\RecargaApp\obj\Debug\net10.0\ref\RecargaApp.dll
+C:\Users\varle\OneDrive\Documentos\nextwavecsharp\RecargaApp\RecargaApp\RecargaApp\bin\Debug\net10.0\RecargaApp.exe
+C:\Users\varle\OneDrive\Documentos\nextwavecsharp\RecargaApp\RecargaApp\RecargaApp\bin\Debug\net10.0\RecargaApp.deps.json
+C:\Users\varle\OneDrive\Documentos\nextwavecsharp\RecargaApp\RecargaApp\RecargaApp\bin\Debug\net10.0\RecargaApp.runtimeconfig.json
+C:\Users\varle\OneDrive\Documentos\nextwavecsharp\RecargaApp\RecargaApp\RecargaApp\bin\Debug\net10.0\RecargaApp.dll
+C:\Users\varle\OneDrive\Documentos\nextwavecsharp\RecargaApp\RecargaApp\RecargaApp\bin\Debug\net10.0\RecargaApp.pdb
+C:\Users\varle\OneDrive\Documentos\nextwavecsharp\RecargaApp\RecargaApp\RecargaApp\obj\Debug\net10.0\RecargaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varle\OneDrive\Documentos\nextwavecsharp\RecargaApp\RecargaApp\RecargaApp\obj\Debug\net10.0\RecargaApp.AssemblyInfoInputs.cache
+C:\Users\varle\OneDrive\Documentos\nextwavecsharp\RecargaApp\RecargaApp\RecargaApp\obj\Debug\net10.0\RecargaApp.AssemblyInfo.cs
+C:\Users\varle\OneDrive\Documentos\nextwavecsharp\RecargaApp\RecargaApp\RecargaApp\obj\Debug\net10.0\RecargaApp.csproj.CoreCompileInputs.cache
+C:\Users\varle\OneDrive\Documentos\nextwavecsharp\RecargaApp\RecargaApp\RecargaApp\obj\Debug\net10.0\RecargaApp.sourcelink.json
+C:\Users\varle\OneDrive\Documentos\nextwavecsharp\RecargaApp\RecargaApp\RecargaApp\obj\Debug\net10.0\RecargaApp.dll
+C:\Users\varle\OneDrive\Documentos\nextwavecsharp\RecargaApp\RecargaApp\RecargaApp\obj\Debug\net10.0\refint\RecargaApp.dll
+C:\Users\varle\OneDrive\Documentos\nextwavecsharp\RecargaApp\RecargaApp\RecargaApp\obj\Debug\net10.0\RecargaApp.pdb
+C:\Users\varle\OneDrive\Documentos\nextwavecsharp\RecargaApp\RecargaApp\RecargaApp\obj\Debug\net10.0\RecargaApp.genruntimeconfig.cache
+C:\Users\varle\OneDrive\Documentos\nextwavecsharp\RecargaApp\RecargaApp\RecargaApp\obj\Debug\net10.0\ref\RecargaApp.dll

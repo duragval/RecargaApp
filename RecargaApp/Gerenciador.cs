@@ -11,14 +11,14 @@ public class Gerenciador
     public string Usuario {get;set;}
     public decimal Saldo {get;set;}
 
-    public void ReceberUSuario()
+    public void ReceberUsuario(string usuario)
     {
-        System.Console.WriteLine($"Ola {Usuario}, bem vindo!");
+        System.Console.WriteLine($"\nOla {usuario}, bem vindo!");
     }
 
     public void MostrarSaldo()
     {
-        System.Console.WriteLine($"Seu saldo é de: {Saldo} Reais");
+        System.Console.WriteLine($"\nSeu saldo é de: {Saldo} Reais");
     }
 
     public void AddSaldo(decimal valor)
