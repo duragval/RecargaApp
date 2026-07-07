@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecargaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6b31982b381f73585ba208dff7a00c2384407b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46fb5ce1f6db7d7b02c5f4e71edc836e8191ca98")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecargaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecargaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
